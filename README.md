@@ -1,23 +1,27 @@
-# Women Safety Web Application
+👩‍🦺 Women Safety Web Application – Aashray
+Aashray is a web application built to enhance women’s safety by providing a real-time location tracking system, an SOS button, and instant routing to the nearest police station – all in one platform.
 
-This project is a web application designed to enhance women's safety. It provides a real-time location tracking system, an SOS button for emergency situations, and other features to ensure the safety of women.
+🌐 Live Demo: https://aashrayy.netlify.app/
 
-## Features
 
-- **SOS Button**: A panic button that allows women to send an immediate alert in case of emergency.
-- **Real-time Location Tracking**: The user's location is tracked in real-time to help nearby authorities respond quickly.
-- **Route to Nearest Police Station**: Displays a route from the user's current location to the nearest police station.
-- **User Authentication (Optional)**: Allows users to log in and manage their safety profile.
+🚨 Key Features
+🆘 SOS Button – Instantly alert authorities in case of an emergency.
 
-## Technologies Used
+📍 Real-time Location Tracking – Monitors and shares location for quick response.
 
-- **HTML**: For the structure of the website.
-- **CSS**: For styling the website, making it responsive and user-friendly.
-- **JavaScript**: For adding interactive features like real-time location tracking and the SOS button functionality.
-- **Google Maps API (Optional)**: For displaying the user's location and finding the nearest police station.
+🛣️ Nearest Police Station Route – Guides users to the nearest police station.
 
-## Installation
+🔐 Optional User Authentication – Users can manage their personal safety profile.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yashh152004/DEVHACK.git
+🛠️ Tech Stack
+Technology	Purpose
+HTML	Page structure
+CSS	Styling & responsiveness
+JavaScript	Interactivity & dynamic functionalities
+Google Maps API	Location and routing (optional)
+
+🚀 Getting Started
+Clone the repo
+
+git clone https://github.com/yashh152004/DEVHACK.git
+
